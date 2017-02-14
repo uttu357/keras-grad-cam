@@ -1,0 +1,11 @@
+keras
+tensorflow
+numpy
+Pillow
+h5py
+flask
+tornado
+flask-cors
+requests
+python-magic
+shutil
