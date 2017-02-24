@@ -5,7 +5,7 @@ import subprocess
 import sys
 import os
 
-app = cvfy.register('nongh:0.0.0.0:9396698:5001:9003:0.0.0.0:5001')
+app = cvfy.register('nongh:0.0.0.0:203113:5001:9001:0.0.0.0:5001')
 BASE_IMAGE_URL = './result/cam'
 BASE_IMAGE_EXTENSION = '.jpg'
 

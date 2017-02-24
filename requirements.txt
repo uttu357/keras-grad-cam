@@ -1,3 +1,4 @@
+wheel
 keras
 tensorflow
 numpy
@@ -8,4 +9,3 @@ tornado
 flask-cors
 requests
 python-magic
-shutil
